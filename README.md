@@ -1,4 +1,4 @@
-# FantasyFBAI - Coming Soon
+# FantasyFBAI - Will get back to this after AskMyData
 
 # Tech Stack
  - Frontend: Next.js w/ TypeScript
