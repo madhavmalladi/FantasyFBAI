@@ -1,7 +1,7 @@
-# FantasyFBAI - Will get back to this after AskMyData
+# AI-Powered Habit Tracker & Productivity Assistant (pursuing this instead of Fantasy Football Assistant)
 
 # Tech Stack
- - Frontend: Next.js w/ TypeScript
+ - Frontend: React Native w/ TypeScript
  - Backend: Spring Boot (Java)
  - Database: PostgreSQL
  - AI: GPT w/ LangChain (RAG)
