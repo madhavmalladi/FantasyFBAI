@@ -4,4 +4,4 @@
  - Frontend: React Native w/ TypeScript
  - Backend: Spring Boot (Java)
  - Database: PostgreSQL
- - AI: GPT w/ LangChain (RAG)
+ - AI: GPT
